@@ -1,10 +1,17 @@
-How to: create a RMarkdown document
-================
-Yoram
-6/29/2021
+---
+title: 'How to: create a RMarkdown document'
+author: "Yoram"
+date: "6/29/2021"
+output: 
+  html_document: 
+    keep_md: yes
+---
 
-``` r
+
+```r
 c("Hello World")
 ```
 
-    ## [1] "Hello World"
+```
+## [1] "Hello World"
+```
