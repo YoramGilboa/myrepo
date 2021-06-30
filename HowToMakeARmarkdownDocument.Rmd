@@ -2,7 +2,8 @@
 title: 'How to: create a RMarkdown document'
 author: "Yoram"
 date: "6/29/2021"
-output: html_document
+output: github_document
+
 ---
 
 ```{r setup, include=FALSE}
